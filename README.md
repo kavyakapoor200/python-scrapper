@@ -1,4 +1,3 @@
-# python-scrapper
 # Python Scraper
 
 ## Overview
